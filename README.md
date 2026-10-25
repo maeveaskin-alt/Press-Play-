@@ -60,7 +60,7 @@ The songs are ranked from highest to lowest score. Randomisation is also used be
   - Make sure Python is installed on your computer.
   - Download or clone this repository.
   - Open the project in Visual Studio Code or another Python-compatible program 
-  - Open the main Python file.
+  - Open the press_play_gui.py file.
   - Run the program.
   - Select an answer from each of the four dropdown menus.
   - Click CREATE MY PLAYLIST.
