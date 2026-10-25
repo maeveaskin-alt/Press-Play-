@@ -1,5 +1,15 @@
 # Press Play
 
+# Table of Contents
+- General Info
+- How It Works
+- Features
+- Technologies Used
+- How to Run Press Play
+- Development
+- Room for Improvement
+
+
  # General Information
 Press Play is a personalised playlist generator created in Python. It asks users a series of questions about their current mood, activity, preferred music genre and desired energy level before generating a playlist of 20 song recommendations. The project explores how Python can be used to create a simple recommendation system and an interactive graphical user interface.
 
